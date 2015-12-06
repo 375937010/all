@@ -22,6 +22,7 @@ public class StudentTest {
 
         session.getTransaction().commit();
         session.close();
+        System.out.println("having finish add");
 
 
     }
