@@ -1,0 +1,3 @@
+com\test\StudentTest.class
+com\yx\entity\Student.class
+com\util\HibernateSessionFactory.class
